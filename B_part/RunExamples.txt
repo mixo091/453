@@ -1,0 +1,7 @@
+./cluster -i <input_file> -c <configuration_file> -o <output_file> -update <Mean Frecher or 
+Mean Vector> -assignment <Classic or LSH or Hypercube or LSH_Frechet>
+
+
+1)
+
+./cluster -i ./TestSets/FinalSets/nasd_input.csv -c config.txt -o ./Results/result.txt -update MeanVector -assignment Hypercube -complete 1 

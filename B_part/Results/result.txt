@@ -1,0 +1,90 @@
+
+Query:  [ name:aer , id:0 ] 
+ Algorithm : Discrete Frechet
+Approximate Nearest neighbor: abt
+Approximate Distance: 9.78618
+
+True Nearest neighbor: abt
+
+True Distance: 9.78618
+
+Query:  [ name:aeri , id:1 ] 
+ Algorithm : Discrete Frechet
+Approximate Nearest neighbor: aa
+Approximate Distance: 22.6784
+
+True Nearest neighbor: abcb
+
+True Distance: 17.1672
+
+Query:  [ name:aes , id:2 ] 
+ Algorithm : Discrete Frechet
+Approximate Nearest neighbor: acsf
+Approximate Distance: 3.55188
+
+True Nearest neighbor: abdc
+
+True Distance: 3.4488
+
+Query:  [ name:aet , id:3 ] 
+ Algorithm : Discrete Frechet
+Approximate Nearest neighbor: aapl
+Approximate Distance: 27.694
+
+True Nearest neighbor: aapl
+
+True Distance: 27.694
+
+Query:  [ name:aeti , id:4 ] 
+ Algorithm : Discrete Frechet
+Approximate Nearest neighbor: acst
+Approximate Distance: 2.5653
+
+True Nearest neighbor: acst
+
+True Distance: 2.5653
+
+Query:  [ name:aey , id:5 ] 
+ Algorithm : Discrete Frechet
+Approximate Nearest neighbor: acst
+Approximate Distance: 3.27
+
+True Nearest neighbor: aau
+
+True Distance: 1.882
+
+Query:  [ name:aezs , id:6 ] 
+ Algorithm : Discrete Frechet
+Approximate Nearest neighbor: acad
+Approximate Distance: 38.4465
+
+True Nearest neighbor: acad
+
+True Distance: 38.4465
+
+Query:  [ name:afam , id:7 ] 
+ Algorithm : Discrete Frechet
+Approximate Nearest neighbor: acc
+Approximate Distance: 15.8278
+
+True Nearest neighbor: abt
+
+True Distance: 14.8876
+
+Query:  [ name:afb , id:8 ] 
+ Algorithm : Discrete Frechet
+Approximate Nearest neighbor: abe
+Approximate Distance: 3.5072
+
+True Nearest neighbor: adx
+
+True Distance: 3.01
+
+Query:  [ name:afc , id:9 ] 
+ Algorithm : Discrete Frechet
+Approximate Nearest neighbor: aeh
+Approximate Distance: 1.194
+
+True Nearest neighbor: aeh
+
+True Distance: 1.194
